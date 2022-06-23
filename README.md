@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhick Dahal</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-- 🔭 I’m currently working on **a fintech product**
+- 🔭 I’m currently working on **building roubust backend apis**
 
 - 🌱 I’m currently learning **Cloud Computing and various associated services**
 
