@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am working as a backend-focused cloud engineer at a service-based company here in<br>Nepal, Kathmandu I help startups and organizations bring their ideas to code.
+I am working as a backend-focused cloud engineer at a service-based company here in Nepal, Kathmandu I help startups and organizations bring their ideas to code.
 
 ## 🌐 Socials:
 
